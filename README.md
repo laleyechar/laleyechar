@@ -16,25 +16,27 @@
     <ul id="wordList"></ul>
 
     <script src="script.js"></script>
-<style>body {
+<style>
+    .body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
     padding: 20px;
 }
 
-#wordContainer {
+.wordContainer {
     margin-top: 20px;
 }
 
-#wordList {
+.wordList {
     list-style-type: none;
     padding: 0;
 }
 
-li {
+.li {
     margin: 10px 0;
-}</style>
+}
+</style>
     
     
 </body>
