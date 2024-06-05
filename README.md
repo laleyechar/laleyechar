@@ -33,7 +33,7 @@
     padding: 0;
 }
 
-.li {
+@li {
     margin: 10px 0;
 }
 </style>
